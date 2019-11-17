@@ -1,0 +1,10 @@
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\bin\x86\Debug\CVR100A_U_DSDK_Demo.exe
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\bin\x86\Debug\CVR100A_U_DSDK_Demo.pdb
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.Form1.resources
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.Properties.Resources.resources
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.csproj.GenerateResource.Cache
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.exe
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.pdb
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo\obj\x86\Debug\CVR100A_U_DSDK_Demo.csprojResolveAssemblyReference.cache
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo_bakup\obj\x86\Debug\CVR100A_U_DSDK_Demo.exe
+D:\work\华视\svn\主版本\开发包\100u\CVR100UD二次开发SDK开发说明（华视）V7.1.2\Example\C#\CVR100A_U_DSDK_Demo_bakup\obj\x86\Debug\CVR100A_U_DSDK_Demo.pdb

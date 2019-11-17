@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CVR100A_U_DSDK_Demo.Form1.resources
+obj\Debug\CVR100A_U_DSDK_Demo.Properties.Resources.resources
+obj\Debug\CVR100A_U_DSDK_Demo.csproj.GenerateResource.Cache
+bin\Debug\CVR100A_U_DSDK_Demo.exe
+bin\Debug\CVR100A_U_DSDK_Demo.pdb
+obj\Debug\CVR100A_U_DSDK_Demo.exe
+obj\Debug\CVR100A_U_DSDK_Demo.pdb
